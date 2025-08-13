@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Acessível | Projeto Dev
 
-[![GitHub license](https://img.shields.io/github/license/Elisangela-stos/e-commerce?color=6e40c9)](https://github.com/Elisangela-stos/e-commerce/blob/main/LICENSE)
+<a href="#memo-licença">Licença</a>
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
