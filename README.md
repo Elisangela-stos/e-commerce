@@ -4,7 +4,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Um projeto de e-commerce focado em **acessibilidade digital**, desenvolvido como parte da minha transição de carreira para desenvolvimento web.
+Um projeto de e-commerce realizado no evento Bootcamp do DevClub, desenvolvido como parte da minha transição de carreira para desenvolvimento web.
 
 ## ♿ Destaques de Acessibilidade
 - ✅ Navegação por teclado
